@@ -62,7 +62,7 @@ def main():
             vacancy_del = int(input("введите порядковый номер id вакансии для удаления "))
             del dict_[vacancy_del]
 
-            with open("Курьер.json", "w", encoding="utf8") as file:
+            with open(f"{vacancy_name}", "w", encoding="utf8") as file:
                 json.dump(dict_, file, ensure_ascii=False, indent=4)
 
         for vacancy in vacancies:
