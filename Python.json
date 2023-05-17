@@ -1,5 +1,77 @@
 [
     {
+        "id": "80534188",
+        "title": "Специалист по тестированию (QA)",
+        "url": "https://hh.ru/vacancy/80534188",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СберТройка",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79679334",
+        "title": "Стажер SQL/Python",
+        "url": "https://hh.ru/vacancy/79679334",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "КОРУС Консалтинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80458354",
+        "title": "Лингвист",
+        "url": "https://hh.ru/vacancy/80458354",
+        "salary_from": null,
+        "salary_to": 60000,
+        "employer": "Bewise.ai",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80456354",
+        "title": "Python разработчик (Junior)",
+        "url": "https://hh.ru/vacancy/80456354",
+        "salary_from": null,
+        "salary_to": 80000,
+        "employer": "Bewise.ai",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80041167",
+        "title": "Разработчик python",
+        "url": "https://hh.ru/vacancy/80041167",
+        "salary_from": 156000,
+        "salary_to": null,
+        "employer": "Олихвер В. В.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79704747",
+        "title": "IT Интерн (Java, python, C#)",
+        "url": "https://hh.ru/vacancy/79704747",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Народный банк Казахстана",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80510973",
+        "title": "Junior Software Developer",
+        "url": "https://hh.ru/vacancy/80510973",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Киберия",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79621787",
+        "title": "Начинающий программист",
+        "url": "https://hh.ru/vacancy/79621787",
+        "salary_from": 20000,
+        "salary_to": 20000,
+        "employer": "ZAVOD",
+        "api": "HeadHunter"
+    },
+    {
         "id": "80505708",
         "title": "Тестировщик программного обеспечения",
         "url": "https://hh.ru/vacancy/80505708",
@@ -9,12 +81,831 @@
         "api": "HeadHunter"
     },
     {
-        "id": 44488229,
-        "title": "Аналитик данных",
-        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-44488229.html",
+        "id": "79679296",
+        "title": "Стажер SQL/Python",
+        "url": "https://hh.ru/vacancy/79679296",
         "salary_from": null,
         "salary_to": null,
-        "employer": "Сбербанк",
+        "employer": "КОРУС Консалтинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80505089",
+        "title": "Тестировщик ПО (QA) junior",
+        "url": "https://hh.ru/vacancy/80505089",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЗАЗЕКС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80049283",
+        "title": "Программист Python",
+        "url": "https://hh.ru/vacancy/80049283",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employer": "Траектория",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80549433",
+        "title": "Программист Python",
+        "url": "https://hh.ru/vacancy/80549433",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "МИРИТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80391496",
+        "title": "HTML-верстальщик",
+        "url": "https://hh.ru/vacancy/80391496",
+        "salary_from": 60000,
+        "salary_to": 110000,
+        "employer": "Айти-Продвижение",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80133971",
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/80133971",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employer": "Траектория",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80564756",
+        "title": "Специалист по тестированию (manual)",
+        "url": "https://hh.ru/vacancy/80564756",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "НТЦ Вулкан",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80161811",
+        "title": "QA специалист (junior+)",
+        "url": "https://hh.ru/vacancy/80161811",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ТОП КЕЙС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80431819",
+        "title": "Junior программист-разработчик на Python",
+        "url": "https://hh.ru/vacancy/80431819",
+        "salary_from": 100000,
+        "salary_to": 400000,
+        "employer": "НЬЮЭРАМЕДИА",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80323297",
+        "title": "Python Developer",
+        "url": "https://hh.ru/vacancy/80323297",
+        "salary_from": 800000,
+        "salary_to": null,
+        "employer": "Вотчит.Ру",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80309367",
+        "title": "Junior Backend Developer (Python)",
+        "url": "https://hh.ru/vacancy/80309367",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employer": "RTM Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79427596",
+        "title": "Системный администратор",
+        "url": "https://hh.ru/vacancy/79427596",
+        "salary_from": 80000,
+        "salary_to": 110000,
+        "employer": "Просветов Александр Михайлович",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80032687",
+        "title": "Python разработчик junior",
+        "url": "https://hh.ru/vacancy/80032687",
+        "salary_from": 30000,
+        "salary_to": 60000,
+        "employer": "amoCRM",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80414393",
+        "title": "Python Developer",
+        "url": "https://hh.ru/vacancy/80414393",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Софтомнител",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80198541",
+        "title": "Python Developer",
+        "url": "https://hh.ru/vacancy/80198541",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Серяков Виктор Юрьевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80345267",
+        "title": "Python разработчик (Junior)",
+        "url": "https://hh.ru/vacancy/80345267",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "IBS",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80503091",
+        "title": "React Developer",
+        "url": "https://hh.ru/vacancy/80503091",
+        "salary_from": 67000,
+        "salary_to": null,
+        "employer": "Fojin",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80166196",
+        "title": "Junior Python Developer (удаленно)",
+        "url": "https://hh.ru/vacancy/80166196",
+        "salary_from": 35000,
+        "salary_to": 45000,
+        "employer": "Affarts",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80512208",
+        "title": "Тестировщик (QA)",
+        "url": "https://hh.ru/vacancy/80512208",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Рабочие решения",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79551058",
+        "title": "Linux system engineer and DevOps engineer",
+        "url": "https://hh.ru/vacancy/79551058",
+        "salary_from": 93600,
+        "salary_to": 171600,
+        "employer": "Uco software development ltd",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80458099",
+        "title": "Backend Developer (Python)",
+        "url": "https://hh.ru/vacancy/80458099",
+        "salary_from": 90000,
+        "salary_to": null,
+        "employer": "DFA MEDIA",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80571703",
+        "title": "Аналитик данных в Поиск",
+        "url": "https://hh.ru/vacancy/80571703",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "2ГИС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79615561",
+        "title": "Инженер-программист junior",
+        "url": "https://hh.ru/vacancy/79615561",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employer": "ИНИТИ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80356267",
+        "title": "Jun+ Python Разработчик",
+        "url": "https://hh.ru/vacancy/80356267",
+        "salary_from": 90000,
+        "salary_to": 150000,
+        "employer": "Юг Руси",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80450990",
+        "title": "Инженер-тестировщик",
+        "url": "https://hh.ru/vacancy/80450990",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "РАСЧЕТНЫЕ РЕШЕНИЯ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80260072",
+        "title": "Python-разработчик (junior+/middle-)",
+        "url": "https://hh.ru/vacancy/80260072",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "RU-CENTER Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80453315",
+        "title": "Junior аналитик данных",
+        "url": "https://hh.ru/vacancy/80453315",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Rutube",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80398043",
+        "title": "Python Developer",
+        "url": "https://hh.ru/vacancy/80398043",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employer": "CyberSecurity Technologies",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80525643",
+        "title": "Программист Python",
+        "url": "https://hh.ru/vacancy/80525643",
+        "salary_from": 80000,
+        "salary_to": 110000,
+        "employer": "Гринтех",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79326590",
+        "title": "Исследователь данных, удаленно",
+        "url": "https://hh.ru/vacancy/79326590",
+        "salary_from": 190000,
+        "salary_to": null,
+        "employer": "ВкусВилл",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80419928",
+        "title": "Программист Python/Data Scientist (junior / middle)",
+        "url": "https://hh.ru/vacancy/80419928",
+        "salary_from": 70000,
+        "salary_to": 120000,
+        "employer": "Апэрбот",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80499342",
+        "title": "Data Scientist (Стажёр)",
+        "url": "https://hh.ru/vacancy/80499342",
+        "salary_from": null,
+        "salary_to": 35000,
+        "employer": "М.Видео-Эльдорадо",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80506935",
+        "title": "Стажер в команду DevOps инженеров",
+        "url": "https://hh.ru/vacancy/80506935",
+        "salary_from": 40000,
+        "salary_to": 40000,
+        "employer": "Mediascope",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80476435",
+        "title": "AI-разработчик junior (удаленно)",
+        "url": "https://hh.ru/vacancy/80476435",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ИНЛАЙН",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80214260",
+        "title": "Стажер аналитик данных",
+        "url": "https://hh.ru/vacancy/80214260",
+        "salary_from": 45000,
+        "salary_to": 45000,
+        "employer": "Х5 Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80514115",
+        "title": "Аналитик данных (младший)/Junior Data analyst",
+        "url": "https://hh.ru/vacancy/80514115",
+        "salary_from": 85000,
+        "salary_to": null,
+        "employer": "Космос Лидс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80455537",
+        "title": "Инженер тестирования/QA Engineer",
+        "url": "https://hh.ru/vacancy/80455537",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "К-ТЕХНОЛОГИИ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80548750",
+        "title": "Data Analyst\\ Аналитик данных (Бизнес аналитик)",
+        "url": "https://hh.ru/vacancy/80548750",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Банк ЦентрКредит",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80559478",
+        "title": "Web-разработчик",
+        "url": "https://hh.ru/vacancy/80559478",
+        "salary_from": 60000,
+        "salary_to": 100000,
+        "employer": "М-Бизнес",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80332858",
+        "title": "Разработчик Python (junior)",
+        "url": "https://hh.ru/vacancy/80332858",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "К Телеком,ООО",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80282563",
+        "title": "Python backend разработчик",
+        "url": "https://hh.ru/vacancy/80282563",
+        "salary_from": 23400000,
+        "salary_to": 39000000,
+        "employer": "«DZHANDOSOV SOFT»",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80376897",
+        "title": "Python developer",
+        "url": "https://hh.ru/vacancy/80376897",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "LG Electronics Inc.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80340038",
+        "title": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/80340038",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "АЙ ДЖИ ЭФ - ИНЖИНИРИНГ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80527394",
+        "title": "Стажер (Школа Аналитики)",
+        "url": "https://hh.ru/vacancy/80527394",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СИБУР, Группа компаний",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79910234",
+        "title": "Тестировщик / QA-специалист",
+        "url": "https://hh.ru/vacancy/79910234",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ТОП КЕЙС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80253990",
+        "title": "Data scientist (intern)",
+        "url": "https://hh.ru/vacancy/80253990",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Aramco Innovations",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80316762",
+        "title": "SRE Engineer",
+        "url": "https://hh.ru/vacancy/80316762",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Леруа Мерлен",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80101836",
+        "title": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/80101836",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employer": "Планар",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80416679",
+        "title": "QA тестировщик (удаленно)",
+        "url": "https://hh.ru/vacancy/80416679",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "DCloud",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80357972",
+        "title": "Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/80357972",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer": "ПИКАССО",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79795304",
+        "title": "Junior разработчик",
+        "url": "https://hh.ru/vacancy/79795304",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "SYM TECHNOLOGY",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80498176",
+        "title": "Инженер БПЛА VTOL",
+        "url": "https://hh.ru/vacancy/80498176",
+        "salary_from": null,
+        "salary_to": 200000,
+        "employer": "АЙТИ.СПЕЙС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80437844",
+        "title": "Frontend разработчик (React)",
+        "url": "https://hh.ru/vacancy/80437844",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ДОМ.РФ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80360527",
+        "title": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/80360527",
+        "salary_from": 90000,
+        "salary_to": 90000,
+        "employer": "Московский филиал АО ЦентрИнформ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79555102",
+        "title": "Python junior",
+        "url": "https://hh.ru/vacancy/79555102",
+        "salary_from": null,
+        "salary_to": 120000,
+        "employer": "KTS",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77318678",
+        "title": "Web-программист (МИАЦ)",
+        "url": "https://hh.ru/vacancy/77318678",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "Министерство здравоохранения Архангельской области",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77913857",
+        "title": "Младший инженер по тестированию ПО",
+        "url": "https://hh.ru/vacancy/77913857",
+        "salary_from": null,
+        "salary_to": 77000,
+        "employer": "Базальт СПО",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80251603",
+        "title": "Frontend Developer/React",
+        "url": "https://hh.ru/vacancy/80251603",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Крауд",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80240392",
+        "title": "Python Developer",
+        "url": "https://hh.ru/vacancy/80240392",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "SlonW",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79990352",
+        "title": "Python Developer (Junior, Junior+, Middle)",
+        "url": "https://hh.ru/vacancy/79990352",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "КЭШОФФ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80232130",
+        "title": "Инженер по тестированию / QA Engineer",
+        "url": "https://hh.ru/vacancy/80232130",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "DSSL",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80458820",
+        "title": "Data engineer / Python developer",
+        "url": "https://hh.ru/vacancy/80458820",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Продуктлаб",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80367757",
+        "title": "Специалист по тестированию",
+        "url": "https://hh.ru/vacancy/80367757",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Центр-инвест, коммерческий банк",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80410615",
+        "title": "Разработчик (Python)",
+        "url": "https://hh.ru/vacancy/80410615",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "КонсалтПро",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80377075",
+        "title": "Программист 1С без опыта",
+        "url": "https://hh.ru/vacancy/80377075",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employer": "Твое Решение",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80200233",
+        "title": "QA инженер",
+        "url": "https://hh.ru/vacancy/80200233",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Akdal",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80516846",
+        "title": "Python developer / Quantitative Researcher",
+        "url": "https://hh.ru/vacancy/80516846",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Peter Partner",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80443011",
+        "title": "QA engineer (Лента онлайн)",
+        "url": "https://hh.ru/vacancy/80443011",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Лента, федеральная розничная сеть",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80377837",
+        "title": "Программист Python, Django",
+        "url": "https://hh.ru/vacancy/80377837",
+        "salary_from": null,
+        "salary_to": 120000,
+        "employer": "MSquad",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80376007",
+        "title": "Стажер в отдел разработки системного ПО",
+        "url": "https://hh.ru/vacancy/80376007",
+        "salary_from": 40000,
+        "salary_to": 40000,
+        "employer": "Mediascope",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80530327",
+        "title": "Стажер Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/80530327",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СБЕР",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80046513",
+        "title": "Manual QA engineer (Web)",
+        "url": "https://hh.ru/vacancy/80046513",
+        "salary_from": 60000,
+        "salary_to": 90000,
+        "employer": "Смартекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80383928",
+        "title": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/80383928",
+        "salary_from": 35100000,
+        "salary_to": 46020000,
+        "employer": "ProMebel, ТМ (ТОО IDIA Market)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80465473",
+        "title": "Программист",
+        "url": "https://hh.ru/vacancy/80465473",
+        "salary_from": 50000,
+        "salary_to": 75000,
+        "employer": "ГУФССП России по Московской области",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80262548",
+        "title": "QA инженер",
+        "url": "https://hh.ru/vacancy/80262548",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ITentika",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80481509",
+        "title": "Ручной тестировщик ПО (QA)",
+        "url": "https://hh.ru/vacancy/80481509",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЗАЗЕКС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80214230",
+        "title": "Программист Python (удаленно)",
+        "url": "https://hh.ru/vacancy/80214230",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Осм Консалтинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79681180",
+        "title": "Intern / Junior Python backend developer",
+        "url": "https://hh.ru/vacancy/79681180",
+        "salary_from": null,
+        "salary_to": 60000,
+        "employer": "Рекруто",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80317976",
+        "title": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/80317976",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Инрэко ЛАН",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80257315",
+        "title": "Аналитик данных (Госуслуги)",
+        "url": "https://hh.ru/vacancy/80257315",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "РТ Лабс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80007621",
+        "title": "Тестировщик",
+        "url": "https://hh.ru/vacancy/80007621",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Секретаръ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79936952",
+        "title": "Junior / Middle Backend Web Developer (Python)",
+        "url": "https://hh.ru/vacancy/79936952",
+        "salary_from": null,
+        "salary_to": 80000,
+        "employer": "Новакабель",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80259806",
+        "title": "Разработчик Python/Django (Junior/Middle)",
+        "url": "https://hh.ru/vacancy/80259806",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АКРИХИН",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80402866",
+        "title": "Программист-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/80402866",
+        "salary_from": 70000,
+        "salary_to": 90000,
+        "employer": "Телекоммуникационная Компания Телезон",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80552372",
+        "title": "Research Assistant for Data Analysis",
+        "url": "https://hh.ru/vacancy/80552372",
+        "salary_from": 70200,
+        "salary_to": null,
+        "employer": "Stanford University (ИП Луканин Александр Александрович)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79724994",
+        "title": "Frontend JS разработчик (офис, Санкт-Петербург)",
+        "url": "https://hh.ru/vacancy/79724994",
+        "salary_from": 80000,
+        "salary_to": 200000,
+        "employer": "Агентство 21 век, КЦ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79526101",
+        "title": "QA Инженер / Тестировщик",
+        "url": "https://hh.ru/vacancy/79526101",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Лидгид",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80504585",
+        "title": "Rust developer",
+        "url": "https://hh.ru/vacancy/80504585",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "employer": "CI Capital",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80028912",
+        "title": "Python-разработчик (Junior)",
+        "url": "https://hh.ru/vacancy/80028912",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "employer": "Щербин Алексей Сергеевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80353588",
+        "title": "Data Scientist R&D",
+        "url": "https://hh.ru/vacancy/80353588",
+        "salary_from": 150000,
+        "salary_to": 300000,
+        "employer": "Rubbles",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80487702",
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/80487702",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employer": "ЦСИ Интегро",
+        "api": "HeadHunter"
+    },
+    {
+        "id": 39820617,
+        "title": "Специалист службы поддержки с техническими знаниями (Браузер)",
+        "url": "https://schelkovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820617.html",
+        "salary_from": 15000,
+        "salary_to": null,
+        "employer": "Яндекс",
         "api": "Superjob"
     }
 ]

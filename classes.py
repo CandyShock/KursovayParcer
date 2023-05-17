@@ -1,7 +1,7 @@
 import json
 import os
 from abc import ABC, abstractmethod
-from pprint import pprint
+
 
 import requests
 
@@ -19,6 +19,7 @@ class Basis(ABC):
 
 
 class Vacancy:
+    "Класс для работы с вакансиями"
     __slots__ = ('id', 'title', 'url', 'salary_from', 'salary_to', 'employer', 'api')
 
     def __init__(self, vacancy_id, title, url, salary_from, salary_to, employer, api):
@@ -39,14 +40,15 @@ class Vacancy:
 
     def __str__(self):
         """ Метод для предоставления информации о вакансии"""
-        salary_from = f"От {self.salary_from}" if self.salary_from else ''
-        salary_to = f"До {self.salary_to}" if self.salary_to else ''
+        salary_from = f"От {self.salary_from}" if self.salary_from else '' # проверка наличия мин зп
+        salary_to = f"До {self.salary_to}" if self.salary_to else '' # наличие макс зп
         if self.salary_from is None and self.salary_to is None:
-            salary_from = "Не указана"
-        return f"Вакансия : \"{self.title}\" \nКомпания: \"{self.employer}\" \nЗарплата: {salary_from} {salary_to} \nURL: {self.url} \nСайт: {self.api}"
+            salary_from = "Не указана" # если нет то не указана
+        return f"Вакансия : \"id: {self.id}\" \n{self.title}\" \nКомпания: \"{self.employer}\" \nЗарплата: {salary_from} {salary_to} \nURL: {self.url} \nСайт: {self.api}"
 
 
 class Connector:
+    """Класс для работы с пользовательскими функциями"""
     def __init__(self, keyword, vacancies_json):
         self.__filename = f"{keyword.title()}.json"
         self.insert(vacancies_json)
@@ -62,9 +64,16 @@ class Connector:
                      for x in data]
         return vacancies
 
-    def sorted_vacancies(self):
+    def sorted_vacancies_min(self):
+        """Сортировка по минимальной зп"""
         vacancies = self.select()
         vacancies = sorted(vacancies, reverse=True)
+        return vacancies
+
+    def sorted_vacancies_max(self):
+        """Сортировка по минимальной зп"""
+        vacancies = self.select()
+        vacancies = sorted(vacancies, reverse=False)
         return vacancies
 
 
@@ -82,13 +91,14 @@ class HeadHunter(Basis):
         self.__vacancies = []
 
     def get_request(self):
+        """Запрос по api"""
         response = requests.get('https://api.hh.ru/vacancies',
                                 headers=self.__header,
                                 params=self.__param)
         return response.json()['items']
 
     def get_vacancies(self, page_count=1):
-        """Получение вакансий"""
+        """Получает список страниц и перебирает пока не дойдет до количества страниц"""
         while self.__param['page'] < page_count:
             print(f"HeadHunter, парсинг страницы, {self.__param['page'] + 1}", end=": ")
             value = self.get_request()
@@ -98,7 +108,7 @@ class HeadHunter(Basis):
 
     @staticmethod
     def get_salary(salary):
-        """Метод проверки зарплаты"""
+        """Метод проверки зарплаты, умножается на примерный курс"""
         formated_salary = [None, None]
         if salary and salary['from'] and salary['from'] != 0:
             formated_salary[0] = salary['from'] if salary['currency'].lower() == 'rur' else salary['from'] * 78
@@ -107,6 +117,7 @@ class HeadHunter(Basis):
         return formated_salary
 
     def format_vacancies(self):
+        """Добавление вакансий в список, по параметрам"""
         format_vacancies = []
         for vacancy in self.__vacancies:
             salary_from, salary_to = self.get_salary(vacancy['salary'])
@@ -119,7 +130,7 @@ class HeadHunter(Basis):
                 'employer': vacancy['employer']['name'],
                 'api': 'HeadHunter',
             })
-            return format_vacancies
+        return format_vacancies
 
 
 class Superjob(Basis):
@@ -133,12 +144,14 @@ class Superjob(Basis):
         self.__vacancies = []
 
     def get_request(self):
+        """Запрос по api"""
         response = requests.get('https://api.superjob.ru/2.0/vacancies',
                                 headers=self.__header,
                                 params=self.__param)
         return response.json()['objects']
 
     def get_vacancies(self, page_count=1):
+        """Получает список страниц и перебирает пока не дойдет до количества страниц"""
         while self.__param['page'] < page_count:
             print(f"Superjob, парсинг страницы, {self.__param['page'] + 1}", end=": ")
             value = self.get_request()
@@ -147,7 +160,7 @@ class Superjob(Basis):
             self.__param['page'] += 1
 
     def format_vacancies(self):
-        """Получение нужных данных из списка"""
+        """Добавление вакансий в список, по параметрам"""
         format_vacancies = []
         for vacancy in self.__vacancies:
             format_vacancies.append({
@@ -159,7 +172,7 @@ class Superjob(Basis):
                 'employer': vacancy['firm_name'],
                 'api': 'Superjob'
             })
-            return format_vacancies
+        return format_vacancies
 
     @staticmethod
     def get_salaray(salary, currency):

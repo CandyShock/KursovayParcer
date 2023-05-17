@@ -1,0 +1,893 @@
+[
+    {
+        "id": "78885079",
+        "title": "Водитель-курьер интернет-магазина",
+        "url": "https://hh.ru/vacancy/78885079",
+        "salary_from": 117000,
+        "salary_to": null,
+        "employer": "Биз-универсал, ЧП",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533867",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80533867",
+        "salary_from": 312000000,
+        "salary_to": 390000000,
+        "employer": "SellMax",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80199212",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80199212",
+        "salary_from": 179400,
+        "salary_to": null,
+        "employer": "Презент Симпл",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80611202",
+        "title": "Водитель-курьер в организацию (по поручениям)",
+        "url": "https://hh.ru/vacancy/80611202",
+        "salary_from": 101400,
+        "salary_to": null,
+        "employer": "Компания успеха, ЧП",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80383457",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80383457",
+        "salary_from": 140400,
+        "salary_to": null,
+        "employer": "ДельтаПринт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80603976",
+        "title": "Курьер в офис",
+        "url": "https://hh.ru/vacancy/80603976",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЦДК",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80503007",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80503007",
+        "salary_from": 312000000,
+        "salary_to": 468000000,
+        "employer": "СП ООО Amir group FZCO",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80617702",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80617702",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "Антей-СтройИнвест",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80562527",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80562527",
+        "salary_from": 40000,
+        "salary_to": 40000,
+        "employer": "МСУ-1",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80492987",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80492987",
+        "salary_from": 47000,
+        "salary_to": null,
+        "employer": "Слепая курица",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80499587",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80499587",
+        "salary_from": 40000,
+        "salary_to": 50000,
+        "employer": "ПРИСТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80583372",
+        "title": "Курьер в офис",
+        "url": "https://hh.ru/vacancy/80583372",
+        "salary_from": 30000,
+        "salary_to": 40000,
+        "employer": "Нотариус Алексеев Сергей Дмитриевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80497641",
+        "title": "Курьер в офис / помощник секретаря",
+        "url": "https://hh.ru/vacancy/80497641",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employer": "Алокозай-Интернешнл",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80444614",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80444614",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "РУС-СТРОЙ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80447255",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80447255",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employer": "АЛАНТЕРА",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80574094",
+        "title": "Пеший Курьер",
+        "url": "https://hh.ru/vacancy/80574094",
+        "salary_from": 40000,
+        "salary_to": 50000,
+        "employer": "АРС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80512098",
+        "title": "Курьер пеший",
+        "url": "https://hh.ru/vacancy/80512098",
+        "salary_from": 30000,
+        "salary_to": 50000,
+        "employer": "ГалаПолиграф,ООО",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80448135",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80448135",
+        "salary_from": 47580,
+        "salary_to": 81588,
+        "employer": "Национальная Служба Доставки",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80608613",
+        "title": "Курьер в офис",
+        "url": "https://hh.ru/vacancy/80608613",
+        "salary_from": 35000,
+        "salary_to": null,
+        "employer": "МСУ-1",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80521929",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80521929",
+        "salary_from": 50000,
+        "salary_to": 65000,
+        "employer": "Связь",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533417",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533417",
+        "salary_from": 65000,
+        "salary_to": 110000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533421",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533421",
+        "salary_from": 65000,
+        "salary_to": 119000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80447650",
+        "title": "Курьер в офис",
+        "url": "https://hh.ru/vacancy/80447650",
+        "salary_from": 32000,
+        "salary_to": 35000,
+        "employer": "АНО организация Бексли",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533423",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533423",
+        "salary_from": 65000,
+        "salary_to": 110000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533414",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533414",
+        "salary_from": 65000,
+        "salary_to": 110000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80346098",
+        "title": "Курьер пеший (м.Сокольники)",
+        "url": "https://hh.ru/vacancy/80346098",
+        "salary_from": 48000,
+        "salary_to": null,
+        "employer": "Геномед",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80575547",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80575547",
+        "salary_from": null,
+        "salary_to": 16000,
+        "employer": "ГрандАвто",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533422",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533422",
+        "salary_from": 65000,
+        "salary_to": 116000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78650704",
+        "title": "Водитель-курьер/экспедитор",
+        "url": "https://hh.ru/vacancy/78650704",
+        "salary_from": 234000,
+        "salary_to": 468000,
+        "employer": "ВамэкспрессБай",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80421096",
+        "title": "Курьер (пеший)",
+        "url": "https://hh.ru/vacancy/80421096",
+        "salary_from": 40000,
+        "salary_to": 44000,
+        "employer": "ЮНИМ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533415",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533415",
+        "salary_from": 65000,
+        "salary_to": 115000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80434995",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80434995",
+        "salary_from": 38000,
+        "salary_to": 40000,
+        "employer": "Проект Эйч Ар 112",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80463303",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80463303",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "Аркус-Ц",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80452591",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80452591",
+        "salary_from": null,
+        "salary_to": 11000,
+        "employer": "РУАНТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80511560",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80511560",
+        "salary_from": 27000,
+        "salary_to": null,
+        "employer": "Стандарт качества",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80220542",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80220542",
+        "salary_from": 109200,
+        "salary_to": null,
+        "employer": "Энергия МТК",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80344939",
+        "title": "Пеший курьер",
+        "url": "https://hh.ru/vacancy/80344939",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employer": "Аликсон",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533419",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533419",
+        "salary_from": 65000,
+        "salary_to": 110000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80366847",
+        "title": "Курьер в офис",
+        "url": "https://hh.ru/vacancy/80366847",
+        "salary_from": 44000,
+        "salary_to": 44000,
+        "employer": "АБФ Консалтинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80488774",
+        "title": "Заведующий хозяйством/Завхоз с функциями курьера/Специалист АХО",
+        "url": "https://hh.ru/vacancy/80488774",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employer": "MILAMARSEL",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80615044",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80615044",
+        "salary_from": 30000,
+        "salary_to": null,
+        "employer": "Всё для уборки",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80408178",
+        "title": "Пеший курьер",
+        "url": "https://hh.ru/vacancy/80408178",
+        "salary_from": null,
+        "salary_to": 50000,
+        "employer": "Арцелла Вита",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80445111",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80445111",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employer": "Докторслон.ру",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80138942",
+        "title": "Пеший курьер в офис",
+        "url": "https://hh.ru/vacancy/80138942",
+        "salary_from": 65000,
+        "salary_to": 65000,
+        "employer": "НПЦ Спектр-АТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77429203",
+        "title": "Водитель - курьер на транспорте компании с категорией B",
+        "url": "https://hh.ru/vacancy/77429203",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer": "Солюшн Про Групп",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80562558",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80562558",
+        "salary_from": 35000,
+        "salary_to": 55000,
+        "employer": "Киберкар",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80111434",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80111434",
+        "salary_from": null,
+        "salary_to": 60000,
+        "employer": "Группа КАНЕКС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80564492",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80564492",
+        "salary_from": 117000,
+        "salary_to": null,
+        "employer": "БЕЛЗЕРНОПРОДУКТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80363990",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80363990",
+        "salary_from": 27300000,
+        "salary_to": 31200000,
+        "employer": "АО «Bank Freedom Finance Kazakhstan»",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80586395",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80586395",
+        "salary_from": 30000,
+        "salary_to": 30000,
+        "employer": "TIM Services",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79427145",
+        "title": "Водитель-курьер на личном автомобиле",
+        "url": "https://hh.ru/vacancy/79427145",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "Первая зуботехническая лаборатория",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80220675",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80220675",
+        "salary_from": 35000,
+        "salary_to": 40000,
+        "employer": "Мир Табака",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79504454",
+        "title": "Курьер (пеший)",
+        "url": "https://hh.ru/vacancy/79504454",
+        "salary_from": 39000,
+        "salary_to": null,
+        "employer": "Агентство Минск-Новости",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80171245",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80171245",
+        "salary_from": 156000,
+        "salary_to": null,
+        "employer": "ПОДКЛЮЧиК",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80447578",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80447578",
+        "salary_from": null,
+        "salary_to": 25000,
+        "employer": "БДТ им. Г.А. Товстоногова",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80570639",
+        "title": "Водитель-курьер на автомобиле компании",
+        "url": "https://hh.ru/vacancy/80570639",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "Четыре Лапы",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80533418",
+        "title": "Водитель-курьер выходного дня с личным автомобилем",
+        "url": "https://hh.ru/vacancy/80533418",
+        "salary_from": 65000,
+        "salary_to": 110000,
+        "employer": "Глобал HR (ИП Вяткин Максим Анатольевич)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80293964",
+        "title": "Водитель-курьер на Служебном автомобиле",
+        "url": "https://hh.ru/vacancy/80293964",
+        "salary_from": 50000,
+        "salary_to": 60000,
+        "employer": "Royal Grill",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79948239",
+        "title": "Курьер на сто",
+        "url": "https://hh.ru/vacancy/79948239",
+        "salary_from": 101400,
+        "salary_to": 101400,
+        "employer": "Пузик Ю. В.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80459900",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80459900",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "АДМ дентал",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80289136",
+        "title": "Офисный курьер",
+        "url": "https://hh.ru/vacancy/80289136",
+        "salary_from": 45000,
+        "salary_to": 50000,
+        "employer": "ZENDEN",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79033559",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/79033559",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employer": "Современные Системы Реновации",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80448738",
+        "title": "Курьер в офис (документы)",
+        "url": "https://hh.ru/vacancy/80448738",
+        "salary_from": 20000,
+        "salary_to": 23000,
+        "employer": "КОРПОРАЦИЯ АЕОН",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80424743",
+        "title": "Водитель-курьер на автомобиле работодателя",
+        "url": "https://hh.ru/vacancy/80424743",
+        "salary_from": 15600000,
+        "salary_to": 31200000,
+        "employer": "Flip.kz",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80574185",
+        "title": "Курьер пеший",
+        "url": "https://hh.ru/vacancy/80574185",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Straumann Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80610038",
+        "title": "Курьер документов (м.Воронцовская)",
+        "url": "https://hh.ru/vacancy/80610038",
+        "salary_from": 35000,
+        "salary_to": 35000,
+        "employer": "Энитэль",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79440307",
+        "title": "Пеший курьер",
+        "url": "https://hh.ru/vacancy/79440307",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employer": "БЕРИЗАРЯД!",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80369752",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80369752",
+        "salary_from": 25000,
+        "salary_to": 35000,
+        "employer": "Фонд Общественное Мнение",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80432769",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80432769",
+        "salary_from": 25000,
+        "salary_to": null,
+        "employer": "President Service Consult",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80584353",
+        "title": "Курьер в интернет-магазин парфюмерии (Москва)",
+        "url": "https://hh.ru/vacancy/80584353",
+        "salary_from": 60000,
+        "salary_to": 65000,
+        "employer": "Арведор",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80558048",
+        "title": "Пеший курьер службы доставки",
+        "url": "https://hh.ru/vacancy/80558048",
+        "salary_from": 36000,
+        "salary_to": 54000,
+        "employer": "Ninja Pizza",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80230165",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80230165",
+        "salary_from": 3900000,
+        "salary_to": null,
+        "employer": "Альфа Транс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80263802",
+        "title": "Водитель на служебный автомобиль (с обязанностями водителя-курьера)",
+        "url": "https://hh.ru/vacancy/80263802",
+        "salary_from": 93600,
+        "salary_to": 117000,
+        "employer": "Профи Авто Групп",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80260565",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80260565",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "Зонеко",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80441647",
+        "title": "Пеший курьер",
+        "url": "https://hh.ru/vacancy/80441647",
+        "salary_from": 30000,
+        "salary_to": 30000,
+        "employer": "Ренессанс-С",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79789030",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/79789030",
+        "salary_from": 46000,
+        "salary_to": 46000,
+        "employer": "Group of Investing Companies",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79792069",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/79792069",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "Ozon",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80575006",
+        "title": "Курьер пеший (документы)",
+        "url": "https://hh.ru/vacancy/80575006",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "Симвэлл",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80322643",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80322643",
+        "salary_from": null,
+        "salary_to": 31000,
+        "employer": "Росгосцирк ФКП",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80426290",
+        "title": "Курьер в офис (пеший)",
+        "url": "https://hh.ru/vacancy/80426290",
+        "salary_from": null,
+        "salary_to": 35000,
+        "employer": "Билдинг П.М.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79985141",
+        "title": "Водитель-курьер на автомобиль компании",
+        "url": "https://hh.ru/vacancy/79985141",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employer": "Проект А",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80293783",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80293783",
+        "salary_from": 42000,
+        "salary_to": null,
+        "employer": "Библио-Глобус",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80314252",
+        "title": "Пеший курьер в интернет-магазин",
+        "url": "https://hh.ru/vacancy/80314252",
+        "salary_from": 45000,
+        "salary_to": 75000,
+        "employer": "Рейне",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80341214",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80341214",
+        "salary_from": 92000,
+        "salary_to": null,
+        "employer": "Хеликс, лабораторная служба",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80603063",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80603063",
+        "salary_from": 109200,
+        "salary_to": 117000,
+        "employer": "Профлабдиагностика",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79711757",
+        "title": "Водитель-курьер на служебный автомобиль Fiat",
+        "url": "https://hh.ru/vacancy/79711757",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employer": "Гамма Фулфилмент",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80524285",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80524285",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "NICKOL",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79796549",
+        "title": "Пеший курьер в лабораторию",
+        "url": "https://hh.ru/vacancy/79796549",
+        "salary_from": null,
+        "salary_to": 70000,
+        "employer": "Медиатор",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79762642",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/79762642",
+        "salary_from": 52200,
+        "salary_to": null,
+        "employer": "Блицэнерго",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80356155",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80356155",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Запсибгазпром-Газификация",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78015520",
+        "title": "Водитель-курьер по г. Минску (категория прав В)",
+        "url": "https://hh.ru/vacancy/78015520",
+        "salary_from": 117000,
+        "salary_to": 156000,
+        "employer": "Монлибон",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80440673",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80440673",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employer": "ЭкоПромЦентр",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80372101",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80372101",
+        "salary_from": null,
+        "salary_to": 25000,
+        "employer": "MARMI",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80454038",
+        "title": "Водитель-курьер на автомобиле компании",
+        "url": "https://hh.ru/vacancy/80454038",
+        "salary_from": 35000,
+        "salary_to": 80000,
+        "employer": "Премьер Консалт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80238020",
+        "title": "Пеший курьер",
+        "url": "https://hh.ru/vacancy/80238020",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "МедПроф",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80615339",
+        "title": "Курьер",
+        "url": "https://hh.ru/vacancy/80615339",
+        "salary_from": 30000,
+        "salary_to": 35000,
+        "employer": "Юрстарт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80102469",
+        "title": "Пеший Курьер",
+        "url": "https://hh.ru/vacancy/80102469",
+        "salary_from": 40000,
+        "salary_to": 70000,
+        "employer": "Поставщик счастья",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80398178",
+        "title": "Водитель-курьер",
+        "url": "https://hh.ru/vacancy/80398178",
+        "salary_from": 23400000,
+        "salary_to": null,
+        "employer": "КСЭ Казахстан",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80185453",
+        "title": "Водитель-курьер-универсал (по сборке и доставке интернет заказов)",
+        "url": "https://hh.ru/vacancy/80185453",
+        "salary_from": null,
+        "salary_to": 155000,
+        "employer": "Департамент Ф53",
+        "api": "HeadHunter"
+    }
+]
